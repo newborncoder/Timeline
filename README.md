@@ -1,4 +1,4 @@
-#This is an Interview Assignment.
+# Timeline
 
 Timeline is a backend application used to provide a timeline of additions and changes that are done by a user/retailer while adding,editing or removing the items from his list.
 
